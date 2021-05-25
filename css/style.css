@@ -1,0 +1,39 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #D7DF01;
+}
+
+.vegetais{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.quem-somos{
+    background-color: #F781BE;
+    color: #424242;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 35px;
+}
+
+.parceiros{
+    background-color: #FACC2E;
+    color: #08088A;
+    
+}
+
+.serviços{
+    background-color: #2E64FE;
+    color: white;
+ 
+}
+
+.bg-footer{
+    background-color:black;
+    color:white;
+}
